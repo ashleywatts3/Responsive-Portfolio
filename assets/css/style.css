@@ -3,7 +3,7 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: rgb(241, 166, 241);
-  background: url("../images/clouds.jpg");
+  background-color: black; 
 }
 
 * {
